@@ -1,0 +1,3 @@
+1. Should I take care of identifying all types of incorrect ways in which instructions can be present in instruction.dat ?? EX: FAC OR FaC OR fac -23 0 OR .... [NOT AN ISSUE I BELIEVE - BASED ON HW PDF INSTRUCTIONS]
+2. See if u can readup the acknowledgement buffer without waiting on it data is not present. This is not a bug, but a enhancement. [NOT REQUIRED. VERY LESS VALUE I GUESS.]
+

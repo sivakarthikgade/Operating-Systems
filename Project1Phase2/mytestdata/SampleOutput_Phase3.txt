@@ -1,0 +1,1009 @@
+Value of N: 124
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+PP Adding (fac,7,10) to Process1 Queue.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+PP Adding (fac,12,13) to Process1 Queue.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+PP Adding (fac,7,10) to Process1 Queue.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+PP Adding (fac,7,10) to Process1 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+PP Adding (fac,10,5) to Process1 Queue.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,12,13) to Process1 Queue.
+PP Adding (add,fil3.txt,137) to Process2 Queue.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+PP Adding (fac,7,10) to Process1 Queue.
+PP Adding (add,fil1.txt,5) to Process2 Queue.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+PP Adding (fac,10,5) to Process1 Queue.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+PP Adding (add,fil2.txt,7) to Process2 Queue.
+PP Adding (fac,0,0) to Process1 Queue.
+PP Adding (add,stop,10) to Process2 Queue.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,12,13). Factorial of 12 mod 13 is: 12.
+P1 Instr Received: (fac,7,10). Factorial of 7 mod 10 is: 0.
+P1 Instr Received: (fac,10,5). Factorial of 10 mod 5 is: 0.
+P1 Instr Received: (fac,0,0). Encountered end of instructions command.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+Child1 Exiting!!!
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,fil3.txt,137). Sum of numbers in fil3.txt mod 137 is: 36.
+P2 Instr Received: (add,fil1.txt,5). Sum of numbers in fil1.txt mod 5 is: 1.
+P2 Instr Received: (add,fil2.txt,7). Sum of numbers in fil2.txt mod 7 is: 2.
+P2 Instr Received: (add,stop,10). Encountered end of instructions command.
+Child2 Exiting!!!
+Parent Exiting!!!
+
