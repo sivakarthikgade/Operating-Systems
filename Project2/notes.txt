@@ -1,0 +1,28 @@
+Project2 - Phase1 completed (working with 42k instructions)
+
+
+fuser 8080/tcp
+kill -9 portno
+
+
+TODO:
+0. Check on internet what happens if two times a interrupt is set before the interrupt handler is invoked.	[DONE]
+
+1. Introduce intelligence in main process to know which server has set the signalUSR1 signal. If both then it needs to be aware of that info as well. Required when deciding when to renew passing instructions.	[LATER. Revisit signalfd.]
+
+2. Introduce another socket.	[DONE]
+- Make main process wait by reading on this socket once it is blocked after rcvng USR1 from server(s). It is used by main process to get ackn from servers when the counts go below M.
+- Make child process(es) which ever signalled USR1 to write into this socket that they are now good to accept some more inputs.
+
+3. Send end of file instrs from code instead of depending on instructions.dat to contain them.	[DONE]
+
+4. Block signal handler from being disturbed.	[Later, Phase 3 rel]
+
+5. Professor going to come back on how to prevent signals from being over ridden. Will deal with it then. [LATER. But before submission.]
+
+6. Use UDP socket in 2.
+- Make main process listen on a socket.
+- Make child processes write ackns to it.
+
+http://www.abc.se/~m6695/udp.html
+http://www.cs.rutgers.edu/~pxk/417/notes/sockets/demo-udp-03.html
