@@ -1,0 +1,79 @@
+Changes made from v6 to v8
+
+* Changed set_interrupt function in cpu.c
+
+* In simos.h
+
+  - reorganized simos.h and added external function definitions
+
+  - added another time quantum for the idle process
+      int cpuQuantum;
+      int idleQuantum;
+
+  - moved some pid related definitions from process.c to simos.h
+    added the definition of idlePid
+      #define osPid 0
+      #define idlePid 1
+      int currentPid;
+
+* In process.c, make the system run idle process and reorganized
+
+  - moved the pid related definitions to simos.h
+
+  - moved PCB related functions down and added get_PCB function
+    some steps in get_PCB are from function submit_process
+      int get_PCB ()
+      void free_PCB (pid)
+      void dump_PCB (pid)
+
+  - added function init_idle_process and corresponding definitions
+      #define OPifgo 5
+      #define idleMsize 3
+      #define idleNinstr 2
+      void init_idle_process ()
+
+  - moved initialize_process function down and let it call init_idle_process
+    and initialize currentPid 
+      void initialize_process ()
+      {
+        currentPid = 2;
+        init_idle_process ();
+      }
+
+  - modified execute_process to correct a bug (forgot to save context)
+      else if (CPU.exeStatus == ePFault)
+        { context_out (pid);
+          remove_ready (); deactivate_timer (event);
+          init_pagefault_handler (CPU.Pid);
+        }
+      else if (CPU.exeStatus == eWait)
+        { context_out (pid);
+          remove_ready (); deactivate_timer (event);
+        }
+
+  - modified execute_process to execute idle process when no ready process
+      pid = get_ready ();
+      if (pid != nullReady) ...
+      else // no ready process in the system
+      { context_in (idlePid);
+        CPU.exeStatus = eRun;
+        add_timer (idleQuantum, CPU.Pid, actTQinterrupt, oneTimeTimer);
+        cpu_execution ();
+      }
+
+  - added some comments for each segment of the process manager
+
+* Modified command.c
+
+  - added a printf before scanning to make the input request clear
+    printf ("\ncommand> ");
+
+  - in function initialize_system, now read in idleQuantum also
+    also made the corresponding change in config.sys
+      fscanf (fconfig, "%d %d\n", &cpuQuantum, &idleQuantum);
+
+  - for submit process, read in the program file name instead of a number
+    (I was lazy in typing the name during testing, this is the proper way)
+      { case 's':   // submit
+          scanf ("%s", &fname);
+

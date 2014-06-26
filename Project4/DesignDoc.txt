@@ -1,0 +1,22 @@
+Phase 3 Completed.
+
+Design:
+1. Have alloted two memory chunks during initialization time: One for memory, One from swap space. (of specified sizes in config.sys)
+2. Each frame of memory and swap space are represented using specific structures created for the specific tasks. The frame structure used for memory contains parameters of the frame like age vector and dirty bit, in addition to isFree and memory pointers.
+3. All the frames are initialized as free and set to their respective memory addresses.
+4. When a new process is submitted, the memory manager checks if there are sufficient free frames in swap space & memory has atleast one non-os frame. If both these conditions are met then the process is alloted sufficient frames.
+5. Have changed Mbase to int*. Mbase in the PCB and CPU structures are used to point to the head of the respective process' page table. Don't need to use Mbound and Mdbase in my implementation. The mechanism to ensure whether the offset is exceeding alloted memory is handled using page table information, number of instructions and number of data information.
+6. Have added int* Mswapbase to the PCB structure. It points to the head of the swap space page table. This is also managed in the similar lines as memory management.
+7. While loading instructions and data, all are loaded into swap space frames of the process. Once this is completed the first frame is copied in to the memory. A hook is placed in process manager submit_process, to make it happen.
+8. The check address and check load address check whether the offset specified is not breaching the instruction and data counts limits defined in the process definition.
+9. The get_instruction, get_data and put_data invoke compute_address to get the actual address of the offset. compute_address detects if there is a page fault, invokes mechanism to get a free frame, loads the IORequest into IORequest queue, and issues a page fault. This page fault status is returned to cpu and process manager, which inturn invoke the page fault handler.
+10. The IO thread which process the IO requests, once invoked, will process all the requests in the queue and invoke pagefault complete handler with the respective pids.
+11. To avoid busy wait by the IO thread, have used a semaphore with 0 as initialization value. The IO thread suspends itself on that semaphore. When a page fault occurs, the OS signals the semaphor as a way to invoke the IO thread. The IO thread upon receiving signal will process all the requests in the queue.
+12. The insert and read operation from the IORequest queue are made mutually exclusive to avoid concurrency issues.
+13. When a process ends, all the frames alloted to it in both memory and swap space, are cleared and return to free list.
+14. The memory age scan method is implemented as per its requirement. It just updates the age vector. The frames are freed upon demand, in compliance to the specification in phase 3.
+15. The dump memory is modified as per requirements.
+16. Have implemented dump_swap '-w', and dump_IO requests '-i'.
+17. All the swap space management and IO Request management functions are placed in the memory.c file itself.
+18. Barring dump swap space function, the swap space is not exposed outside. Any operation on memory inturn performs the necessary operations on swap space.
+19. Log statements are places as per requirements. Where ever it may not be clear, all the respective log statements are prefixed with "file.method_name:" to indicate the correct origin of those statements.

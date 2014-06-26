@@ -1,0 +1,151 @@
+Need To Implement
+Memory.c
+Declarations:
+- Define structure of a free list. pointer array I guess.
+- Define struct {page table, age vector, dirty bit}.
+0. Some initializer function, which gets invoked during simos startup time.
+- Set aside specified memory for this program.
+- Initialize freelist based on the values in the config.sys file.
+- If there is any idle process which is dependent on memory allocation mechanism, allot memory correctly to that process.
+1. allocate_memory()
+- based on size requirements on the process, allote set of pages to a process. remove the alloted pages from the free list.
+- create a struct type object for this. and initialize the page table, age vector & dirty bits correctly.
+2. free_memory()
+- dissolve the struct object and PCB (check if I need to handle pcb dissolving part) of the process.
+- release the pages back into the free list.
+4. load_instr()
+- copy the instructions into the respective address locations.
+5. load_data()
+- copy the data into the respective address locations.
+6. util function to construct the address of a process from offset.
+7. check_addr() function to ensure the validity of the offset passed.
+8. get_instr()
+- generate actual address -> check its validity -> return the instruction OR set the opcode and operand values in the respective CPU registers.
+9. get_data()
+- generate actual address -> check its validity -> return the data OR set the MBR. Don't change AC value.
+10. put_data()
+- generate actual address -> check its validity -> copy data from AC directly to it.
+- clean up and post processing on registers is not my responsibility i believe. [confirm once through testing]
+11. w. dump swap space implementation
+
+Note:
+- All the addresses are in words. Increment decrement operations should also be done accordingly.
+
+
+TODO:
+- Go through current implementation once more. Test it using the test input.
+- Kick off with my implementation.
+
+
+1. During Initialization:
+- Set aside tot_mem_size - os_size space.
+- Calculate the number of frames available. Create a free list for the memory. Some how device mechanism to trace the frames.
+- Create an array of {page table, age vector, dirty bit} structs. Each process gets alloted one of these.
+- One more thing regarding addressing algorithm changes in the current implementation. In the sense, a few bits needs to be used to compute the page number -> confirm the validity of page -> Use respective process page table and get frame number -> Use frame number + offset and get actual address -> Check validity of the address and perform required operation on it.
+- Shall confirm on monday, but for now, allote each word for each instr/data point.
+- Based on #instrs + #data, allote that many pages to the incoming process. assign different pages for instrs and data. that way easy to compute validity of addresses and stuff.
+
+
+
+Question:
+0. Explain my approach and confirm if my approach is acceptable.
+1. Process.c->get_PCB() implementation is not great. It maxes out at 1024 pid. Am I required to correct it as well ?
+2. Should we retain the if(debug) statements in memory.c ?
+
+
+
+gdb simos.exe
+gdb bt
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PHASE-2
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+			swapMemory					[DONE]
+			swapFrameTable
+			PCB
+			- Mswapbase
+
+			void initialize_memory ()	[DONE]
+			- allot memory to swapMemory
+			- allot memory to swapFrameTable
+				- initialize every frame isFree to 'y'
+
+			int allocate_memory (int pid, int msize, int numinstr)	[DONE]
+			- if no sufficient frames in swapspace OR if not even a single non-OS frame is available in memory then error.
+			- if sufficient frames then assign them to the process, and update Mswapbase accordingly.
+			- get one frame from memory to allot to this process.
+				- if free frame is available then return it.
+				- if no free frame is available then free one of them using the oldest logic based on ageVector -> free it -> return it.
+
+			int free_memory (int pid)	[DONE]
+			- free frames in swap space
+			- free frames in memory
+
+			int check_load_address (int pid, int offset, char type)		[DONE]
+			- the existing logic should work, with very minor modification.
+
+			int load_instruction (int pid, int offset, int opcode, int operand)		[DONE]
+			int load_data (int pid, int offset, float data)				[DONE]
+
+			new method to copy just the first page of the process from swap space to memory. This has to be done after all load instr & data calls are performed.	[DONE]
+
+			int check_address (int offset, char type)	[DONE]
+			- the existing logic should work, with very minor modification.
+
+			int compute_address(int offset)				[DONE]
+
+			int get_instruction (int offset)			[DONE]
+			int get_data (int offset)					[DONE]
+			int put_data (int offset)					[DONE]
+
+			void memory_agescan ()		[DONE]
+			- Go through all memory frames iteratively.
+				- update age vectors of all being used frames
+				- if age vector is 0, and that frame is alloted to some process then
+					- if it is dirty then copy it to swap space
+					- mark the respective process page table entry as -1
+					- mark the frame free & reset its contents
+
+
+			Test: 128 | var used in the code			[DONE]
+			Test: Once decrease memory and test how LRU page replacement is working		[DONE]
+
+			dump_swap function implementation			[DONE]
+			log stmts when page fault occurred			[DONE]
+
+Some more error check conditions might be required. One more over all look desired. (Ex. if initialize_memory is throwing error then OS should quit, not continue.)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PHASE-3
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+How to set page fault ? Does current OS handle it correctly ?	[DONE]
+Do I need to any thing else during interrupt handling ?			[DONE]
+What happens in that odd case that I thought of ? 	[DONE] It will work properly because the process which lost the page will also issue page fault but its request will be after the original request. Therefore, by the time of its request processing, its dirty page will be copied properly into the swap space from where the same can be picked up and put in a different memory frame and served.
+ERROR FOUND: pageFault error thrown by put_data API is not being handled. Report to TA & Professor.
+- Discussed with TA: Going ahead with my implementation only. If they test for put_data page_fault, then I can argue that it is a mistake in their code only. Not mine. Because the alternate approach suggested is not good. I didn't like it. Well, its anyways not a big miss.
+ERROR FOUND: pageFault errors thrown for idleProcess are not being handled. Check with Professor.	[DONE] Handled it inside the memory manager main thread processing itself as it is not a normal process.
+
+Implement IO device thread.
+- Define input request queue structure.			[DONE]
+- Thread needs to process request(s) from the incoming queue. (i.e. copy data to-and-fro memory, swap space)	[DONE]
+- IO device thread should invoke "void pagefault_complete (pid)" once its done with processing a particular pid request.	[DONE]
+- If no requests in queue, make it suspend/sleep indefinitely.		[DONE]
+In case of page fault, set required data in IO device queue. Make necessary corrections to page tables to 2 processes being effected.	[DONE]
+In case of page fault, return mPFault, from get_inr, get_data, put_data		[DONE]
+Implement "void init_pagefault_handler (int pid)". Looks like it needs to invoke IO device thread. The OS will make this call.		[DONE]
+
+Implement swap space dump function and call it on 'w'	[DONE]
+Wrap up remaining log statements placing as required	[DONE]
+One complete testing									[]
+Documentation											[DONE]
+
+
+
+MISC TODOs:
+Add age vector, dirty bit in printing along with page number.								[DONE]
+Add a bit more required information in page fault messages.									[DONE]
+In observation mode, print changes to dirty bit and aging vector before and after updates.	[DONE]
+dump_IO function																			[DONE]
+In observation mode, log of request being processed.										[DONE]
